@@ -1,0 +1,68 @@
+-- Filtering Rockbuster Data
+-- Customeer team, inventory team, and management board sent list of questions to answer
+
+-- List of films that contain the word Uptown in any position
+
+SELECT film_id, 
+		title,
+		description
+FROM film
+WHERE title LIKE '%Uptown%'
+GROUP BY film_id
+ORDER BY title;
+
+-- List of films with lengths more than 120 minutes and rental rate more than 2.99
+
+SELECT film_id, 
+		title,
+		description,
+		length,
+		rental_rate
+FROM film
+WHERE length >120 AND rental_rate >2.99
+ORDER BY title;
+
+-- List of films with a rental duration between 3 and 7 days (not inclusive)
+
+SELECT film_id,
+		title,
+		description,
+		rental_duration
+FROM film
+WHERE rental_duration BETWEEN 4 AND 6
+ORDER BY rental_duration, title;
+
+
+-- List of films with replacement cost less than 14.99
+
+SELECT film_id,
+		title,
+		description,
+		replacement_cost
+FROM film
+WHERE rental_rate <14.99
+ORDER BY replacement_cost, title;
+
+-- Films with movie ratings either PG or G
+
+SELECT film_id,
+		title,
+		description,
+		rating
+FROM film
+WHERE rating = 'PG' OR rating = 'G'
+ORDER BY rating, title;
+
+-- Inventory team wants more information about movies that are PG or G
+-- Including: count of movies, average rental rate, max and min rental durations
+
+SELECT rating,
+		COUNT(film_id) AS "count of movies",
+		AVG(rental_rate)::NUMERIC(10,2) AS "average movie rental rate",
+		MAX(rental_duration) AS "maximum rental duration",
+		MIN(rental_duration) AS "minimum rental_duration"
+FROM film
+WHERE rating = 'PG' OR rating = 'G'
+GROUP BY rating;
+
+-- End of client requests
