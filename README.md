@@ -14,7 +14,7 @@ Rockbuster has a relational database composed of 14 tables of data: payment, ren
 ## **Project Deliverables**
 - ERD of Rockbuster database
 - Rockbuster Data Dictionary
-- Powerpoint Presentation [here](https://docs.google.com/presentation/d/1itPRynfVecUpBXPNVQkK1x7ufc5hNlei/edit?usp=sharing&ouid=117787708180877229785&rtpof=true&sd=true)
+- Powerpoint Presentation [here](https://drive.google.com/file/d/1HHRijwir5cR0BXJuf_VGXpqQ7mPL5weF/view?usp=sharing) 
 - Tableau Storyboard [here](https://public.tableau.com/views/RockbusterMarketingStrategy/RockbusterStoryboard?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 
