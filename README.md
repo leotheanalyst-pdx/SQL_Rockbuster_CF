@@ -19,6 +19,6 @@ Rockbuster has a relational database composed of 14 tables of data: payment, ren
 
 
 ## **Skills Demonstrated**
-- **SQL Skills**: cleaning data (check and addressed duplicates, non-uniform data, missing values), filtering data, summarizing with descriptive statistics (including GROUP BY and ORDER BY clauses for complex questions), table joins, subqueries, Common Table Expressions (CTEs)
+- **SQL Skills**: relational databases, database querying, cleaning data (check and addressed duplicates, non-uniform data, missing values), filtering data, summarizing with descriptive statistics (including GROUP BY and ORDER BY clauses for complex questions), table joins, subqueries, Common Table Expressions (CTEs)
 - **Tableau**: designed a comprehensive dashboard including scatterplot, line chart, vertical bar, horizontal bar, stacked horizontal bar, and treemap visulations that captured key insights
 - **Presenting results**: translated the full analysis as both a Powerpoint and Tableau dashboard to present to stakeholders in an easy to understand format
