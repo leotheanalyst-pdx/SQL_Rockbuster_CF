@@ -1,8 +1,9 @@
-# SQL_Rockbuster_CF
-Data Analytics project for Career Foundry. Analysis of Rockbuster Stealth's online movie rental database to provide insights for a 2020 company launch strategy.
+# **SQL_Rockbuster_CF**
 
-## **Objective**
-Rockbuster Stealth LLC is a movie rental company hoping to use its existing movie licenses to launch an online video rental service in 2020. The business intelligence department requested an analysis using PostgreSQL. The analysis began with an exploratory data analysis on the Rockbuster RDBMS, followed by answering specific questions posed by the management board. 
+<img width="820" alt="Rockbuster_GitHub_Imagepng" src="https://github.com/leotheanalyst-pdx/SQL_Rockbuster_CF/assets/146140903/45383908-4d6d-4c99-9581-77fd853f12a0">
+
+## **Objective**:
+Rockbuster Stealth LLC is a movie rental company hoping to use its existing movie licenses to launch an online video rental service in 2020. The business intelligence department requested an analysis using PostgreSQL. The analysis began with an exploratory data analysis on the Rockbuster RDBMS, followed by answering specific questions posed by the management board. This is a data analytics project for the CareerFoundry program.
 
 ## **Data**
 Rockbuster has a relational database composed of 14 tables of data: payment, rental, store, film_actor, inventory, film_category, customer, staff, language, actor, film, category, address, city, country. An ERD was created as a part of this analysis.
