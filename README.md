@@ -13,16 +13,16 @@ Rockbuster has a relational database composed of 14 tables of data: payment, ren
 ### Software: pgAmin, DbVisualizer, Tableau, Excel, PowerPoint
 
 ## **Project Deliverables**
-- ERD of Rockbuster database
+- ERD of Rockbuster database [here](https://drive.google.com/file/d/1VzooRWFR5u_gVQWAaRMKTQT9puYNatNH/view?usp=sharing)
 - Rockbuster Data Dictionary [here](https://drive.google.com/file/d/1y2n04MTBUhGxBhZDBBBApLAzbniPY-pL/view)
-- Excel Technical Report [here](https://docs.google.com/spreadsheets/d/1G77p0QXg8miejyBPpRlt4_2Osccs1FYa/edit#gid=1696732250)
-- Powerpoint Presentation [here](https://drive.google.com/file/d/18JqbykxTz7PwhW0nA_FDwh1R5ty4_4IN/view?usp=sharing)
+- Powerpoint Presentation [here]([https://drive.google.com/file/d/18JqbykxTz7PwhW0nA_FDwh1R5ty4_4IN/view?usp=sharing](https://drive.google.com/file/d/18JqbykxTz7PwhW0nA_FDwh1R5ty4_4IN/view?usp=sharing))
 - Tableau Storyboard [here](https://public.tableau.com/views/RockbusterMarketingStrategy/RockbusterStoryboard?:language=en-US&:display_count=n&:origin=viz_share_link)
+- Excel Technical Report [here](https://docs.google.com/spreadsheets/d/1G77p0QXg8miejyBPpRlt4_2Osccs1FYa/edit#gid=1696732250)
 
 
 ## **Skills Demonstrated**
 - **SQL Skills**: cleaning data (check and addressed duplicates, non-uniform data, missing values), filtering data, summarizing with descriptive statistics (including GROUP BY and ORDER BY clauses for complex questions), table joins, subqueries, Common Table Expressions (CTEs)
 - **Tableau**: designed a comprehensive dashboard including scatterplot, line chart, vertical bar, horizontal bar, stacked horizontal bar, and treemap visulations that captured key insights
-- **Presenting results**: translated the full analysis as both a Powerpoint and Tableau dashboard to present to stakeholders in an easy to understand format
+- **Presenting results**: translated the full analysis as both a PowerPoint and Tableau dashboard to present to stakeholders in an easy to understand format
 
 ## View more work at [www.leofinley.com](https://www.leofinley.com/)
